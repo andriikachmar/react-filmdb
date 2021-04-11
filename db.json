@@ -1,0 +1,41 @@
+{
+  "films": [
+    {
+      "id": 1,
+      "title": "Blazing Saddles",
+      "year": 1974,
+      "format": "VHS",
+      "stars": [
+        "Mel Brooks",
+        "Clevon Little",
+        "Harvey Korman",
+        "Gene Wilder",
+        "Slim Pickens",
+        "Madeline Kahn"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Casablanca",
+      "year": 1942,
+      "format": "DVD",
+      "stars": [
+        "Humphrey Bogart",
+        "Ingrid Bergman",
+        "Claude Rains",
+        "Peter Lorre"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Gladiator",
+      "year": 2000,
+      "format": "DVD",
+      "stars": [
+        "Russell Crowe",
+        "Joaquin Phoenix",
+        "Connie Nielson"
+      ]
+    }
+  ]
+}
